@@ -43,3 +43,8 @@ venv/
 
 # env variable
 set_env.sh
+
+# Others
+.github
+Classroom_Project_Instructions
+CODEOWNERS
